@@ -42,4 +42,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: sudiptasen09/python-helloworld:latest
+          tags: sudiptasen09/go-helloworld:latest
